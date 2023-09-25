@@ -48,45 +48,6 @@
         }
       },
       {
-        "HashCode": -83844694,
-        "Kind": "Components.Component",
-        "Name": "BlazingShop.Pages.Product",
-        "AssemblyName": "BlazingShop",
-        "DisplayName": "BlazingShop.Pages.Product",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Product"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazingShop.Pages.Product",
-          "Common.TypeNameIdentifier": "Product",
-          "Common.TypeNamespace": "BlazingShop.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 51217303,
-        "Kind": "Components.Component",
-        "Name": "BlazingShop.Pages.Product",
-        "AssemblyName": "BlazingShop",
-        "DisplayName": "BlazingShop.Pages.Product",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazingShop.Pages.Product"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazingShop.Pages.Product",
-          "Common.TypeNameIdentifier": "Product",
-          "Common.TypeNamespace": "BlazingShop.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": 713009535,
         "Kind": "Components.Component",
         "Name": "BlazingShop.App",
@@ -313,6 +274,118 @@
           "Common.TypeNamespace": "BlazingShop.Shared",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1149380568,
+        "Kind": "Components.Component",
+        "Name": "BlazingShop.Shared.HeadlessLayout",
+        "AssemblyName": "BlazingShop",
+        "DisplayName": "BlazingShop.Shared.HeadlessLayout",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HeadlessLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment BlazingShop.Shared.HeadlessLayout.Body",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\">\r\n            <summary>\r\n            Gets the content to be rendered inside the layout.\r\n            </summary>\r\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazingShop.Shared.HeadlessLayout",
+          "Common.TypeNameIdentifier": "HeadlessLayout",
+          "Common.TypeNamespace": "BlazingShop.Shared",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 261712227,
+        "Kind": "Components.Component",
+        "Name": "BlazingShop.Shared.HeadlessLayout",
+        "AssemblyName": "BlazingShop",
+        "DisplayName": "BlazingShop.Shared.HeadlessLayout",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazingShop.Shared.HeadlessLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment BlazingShop.Shared.HeadlessLayout.Body",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\">\r\n            <summary>\r\n            Gets the content to be rendered inside the layout.\r\n            </summary>\r\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazingShop.Shared.HeadlessLayout",
+          "Common.TypeNameIdentifier": "HeadlessLayout",
+          "Common.TypeNamespace": "BlazingShop.Shared",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1469102428,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazingShop.Shared.HeadlessLayout.Body",
+        "AssemblyName": "BlazingShop",
+        "DisplayName": "BlazingShop.Shared.HeadlessLayout.Body",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\">\r\n            <summary>\r\n            Gets the content to be rendered inside the layout.\r\n            </summary>\r\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "HeadlessLayout"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazingShop.Shared.HeadlessLayout.Body",
+          "Common.TypeNameIdentifier": "HeadlessLayout",
+          "Common.TypeNamespace": "BlazingShop.Shared",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -559486923,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazingShop.Shared.HeadlessLayout.Body",
+        "AssemblyName": "BlazingShop",
+        "DisplayName": "BlazingShop.Shared.HeadlessLayout.Body",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\">\r\n            <summary>\r\n            Gets the content to be rendered inside the layout.\r\n            </summary>\r\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "BlazingShop.Shared.HeadlessLayout"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazingShop.Shared.HeadlessLayout.Body",
+          "Common.TypeNameIdentifier": "HeadlessLayout",
+          "Common.TypeNamespace": "BlazingShop.Shared",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
         }
       },
       {
@@ -24369,13 +24442,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\matheus.s.vaz\\BlazingShop\\Pages\\Product.razor",
-      "TargetPath": "Pages\\Product.razor",
+      "FilePath": "c:\\Users\\matheus.s.vaz\\BlazingShop\\Shared\\ProductListComponent.razor",
+      "TargetPath": "Shared\\ProductListComponent.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\matheus.s.vaz\\BlazingShop\\Shared\\ProductListComponent.razor",
-      "TargetPath": "Shared\\ProductListComponent.razor",
+      "FilePath": "c:\\Users\\matheus.s.vaz\\BlazingShop\\Pages\\Login.Razor",
+      "TargetPath": "Pages\\Login.Razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\matheus.s.vaz\\BlazingShop\\Shared\\HeadlessLayout.razor",
+      "TargetPath": "Shared\\HeadlessLayout.razor",
       "FileKind": "component"
     }
   ]
