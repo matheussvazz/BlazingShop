@@ -277,6 +277,45 @@
         }
       },
       {
+        "HashCode": 631663365,
+        "Kind": "Components.Component",
+        "Name": "BlazingShop.Shared.ProductListComponent",
+        "AssemblyName": "BlazingShop",
+        "DisplayName": "BlazingShop.Shared.ProductListComponent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ProductListComponent"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazingShop.Shared.ProductListComponent",
+          "Common.TypeNameIdentifier": "ProductListComponent",
+          "Common.TypeNamespace": "BlazingShop.Shared",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 2006796179,
+        "Kind": "Components.Component",
+        "Name": "BlazingShop.Shared.ProductListComponent",
+        "AssemblyName": "BlazingShop",
+        "DisplayName": "BlazingShop.Shared.ProductListComponent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazingShop.Shared.ProductListComponent"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazingShop.Shared.ProductListComponent",
+          "Common.TypeNameIdentifier": "ProductListComponent",
+          "Common.TypeNamespace": "BlazingShop.Shared",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": -548114017,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
@@ -24332,6 +24371,11 @@
     {
       "FilePath": "c:\\Users\\matheus.s.vaz\\BlazingShop\\Pages\\Product.razor",
       "TargetPath": "Pages\\Product.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\matheus.s.vaz\\BlazingShop\\Shared\\ProductListComponent.razor",
+      "TargetPath": "Shared\\ProductListComponent.razor",
       "FileKind": "component"
     }
   ]

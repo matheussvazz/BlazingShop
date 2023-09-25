@@ -4,25 +4,9 @@
 <PageTitle>Products</PageTitle>
 
 <h1> Products </h1>
-<ul>
-    @foreach (var item in _products)
-    {
-        <li>@item.name</li>
-    }
-</ul>
+<ProductListComponent></ProductListComponent>
 
 @code {
-
-    private List<Product> _products = new();
-
-    protected override async Task OnInitializedAsync()
-    {
-        await Task.Delay(500);
-        for (int i = 0; i < 25; i++)
-        {
-            _products.Add(new Product(i + 1, $"Produto {i}", $"Desc do prod {i}", $"imagem-prod-{i}", i * 13.75M, 1));
-        }
-    }
 
 
 }
