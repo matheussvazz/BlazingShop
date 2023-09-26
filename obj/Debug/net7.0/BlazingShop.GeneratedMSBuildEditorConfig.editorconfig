@@ -28,6 +28,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uUmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Pages/Products/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Shared/HeadlessLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhlYWRsZXNzTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -50,10 +54,6 @@ build_metadata.AdditionalFiles.CssScope = b-y1olo2g61n
 
 [c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Pages/Products/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Pages/_Host.cshtml]

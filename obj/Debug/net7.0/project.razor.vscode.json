@@ -24072,14 +24072,14 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\Pages\\Products\\Create.cshtml",
-      "TargetPath": "Pages\\Products\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\Pages\\_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\Pages\\Products\\Create.razor",
+      "TargetPath": "Pages\\Products\\Create.razor",
+      "FileKind": "component"
     }
   ]
 }

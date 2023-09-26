@@ -1,0 +1,41 @@
+@page "/products/create"
+
+<h1>New Product</h1>
+
+<EditForm Model="_model" OnInvalidSubmit="@HandleSubmitAsync">
+
+    <div class "mb-3">
+        <label for="Title" class="form-label">Title</label>
+        <InputText class="form-control" type="text" id="Title" @bind-Value="model.Title" />
+    </div>
+
+    <div class="mb-3">
+        <label for="Price" class="form-label">Price</label>
+        <InputNumber class="form-control" type="number" id="Price" @bind-Value="model.Price" />
+    </div>
+
+    <div class="mb-3">
+        <label for="CategoryId" class="form-label">Category</label>
+        <InputSelect id="categoryId" @bind-Value="model.CategoryId" class="form-control">
+            @foreach (var category in categories)
+            {
+                <option value="@category.Id">@category.Title</option>
+            }
+        </InputSelect>
+    </div>
+
+
+</EditForm>
+
+@code {
+
+    Product _model = new();
+    List<Category> _categories = new();
+
+    private Product _model = new();
+    async Task HandleSubmitAsync()
+    {
+
+    }
+
+}
