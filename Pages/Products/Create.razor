@@ -28,6 +28,13 @@
         </InputSelect>
     </div>
 
+    @if (!string.IsNullOrEmpty(_errorMessage))
+    {
+        <div class="alert alert-danger" role="alert">
+            @errorMessage
+        </div>
+    }
+
     <button class="btn-success" type="submit">SAVE</button>
 
 
@@ -37,6 +44,7 @@
 
     Product _model = new();
     List<Category> _categories = new();
+    string? _errorMessage = null;
 
     protected override async Task OnInitializedAsync()
     {
