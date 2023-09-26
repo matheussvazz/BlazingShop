@@ -1,5 +1,7 @@
 @page "/products/create"
+@using Microsoft.EntityFrameworkCore
 @inject AppDbContext _context
+@inject NavigationManager _navigationManager
 
 <h1>New Product</h1>
 
@@ -62,6 +64,7 @@
         {
             await Context.Products.AddAsync(_model);
             await Context.SaveChangesAsync();
+            _navigationManager.NavigateTo("/products")
         }
         catch (Exception ex)
         {
