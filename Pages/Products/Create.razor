@@ -1,4 +1,5 @@
 @page "/products/create"
+@inject AppDbContext _context
 
 <h1>New Product</h1>
 
@@ -31,6 +32,14 @@
 
     Product _model = new();
     List<Category> _categories = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        _categories = await _context
+        .Categories
+        .AsNoTracking()
+        .ToListAsync();
+    }
 
     private Product _model = new();
     async Task HandleSubmitAsync()
