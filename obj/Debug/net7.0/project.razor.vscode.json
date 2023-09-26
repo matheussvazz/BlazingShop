@@ -24080,6 +24080,11 @@
       "FilePath": "c:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\Pages\\Products\\Create.razor",
       "TargetPath": "Pages\\Products\\Create.razor",
       "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\Pages\\Products\\Index.razor",
+      "TargetPath": "Pages\\Products\\Index.razor",
+      "FileKind": "component"
     }
   ]
 }
