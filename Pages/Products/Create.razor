@@ -5,6 +5,9 @@
 
 <EditForm Model="_model" OnInvalidSubmit="@HandleSubmitAsync">
 
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
     <div class "mb-3">
         <label for="Title" class="form-label">Title</label>
         <InputText class="form-control" type="text" id="Title" @bind-Value="model.Title" />
@@ -24,6 +27,8 @@
             }
         </InputSelect>
     </div>
+
+    <button class="btn-success" type="submit">SAVE</button>
 
 
 </EditForm>
