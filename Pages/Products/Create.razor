@@ -52,12 +52,21 @@
         .Categories
         .AsNoTracking()
         .ToListAsync();
+        _model.CategoryId = _categories[0].Id;
     }
 
     private Product _model = new();
     async Task HandleSubmitAsync()
     {
-
+        try
+        {
+            await Context.Products.AddAsync(_model);
+            await Context.SaveChangesAsync();
+        }
+        catch (Exception ex)
+        {
+            _errorMessage = "Falha ao persistir os dados"
+        }
     }
 
 }
