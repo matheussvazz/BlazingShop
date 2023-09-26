@@ -9,49 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazingShop
 build_property.RootNamespace = BlazingShop
-build_property.ProjectDir = c:\Users\matheus.s.vaz\BlazingShop\
+build_property.ProjectDir = c:\Users\matheus.s.vaz\OneDrive - Corporativo\Área de Trabalho\Estudos\CURSO BALTA.IO\Blazor\BlazingShop\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\matheus.s.vaz\BlazingShop
+build_property.MSBuildProjectDirectory = c:\Users\matheus.s.vaz\OneDrive - Corporativo\Área de Trabalho\Estudos\CURSO BALTA.IO\Blazor\BlazingShop
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/matheus.s.vaz/BlazingShop/App.razor]
+[c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/matheus.s.vaz/BlazingShop/Pages/Index.razor]
+[c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/matheus.s.vaz/BlazingShop/Pages/Login.Razor]
+[c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Pages/Login.Razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uUmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/matheus.s.vaz/BlazingShop/Shared/HeadlessLayout.razor]
+[c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Shared/HeadlessLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhlYWRsZXNzTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/matheus.s.vaz/BlazingShop/Shared/ProductListComponent.razor]
+[c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Shared/ProductListComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByb2R1Y3RMaXN0Q29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/matheus.s.vaz/BlazingShop/_Imports.razor]
+[c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/matheus.s.vaz/BlazingShop/Shared/MainLayout.razor]
+[c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-qb8r1fj9y6
 
-[c:/Users/matheus.s.vaz/BlazingShop/Shared/NavMenu.razor]
+[c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-y1olo2g61n
 
-[c:/Users/matheus.s.vaz/BlazingShop/Pages/Error.cshtml]
+[c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/matheus.s.vaz/BlazingShop/Pages/_Host.cshtml]
+[c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Pages/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/matheus.s.vaz/OneDrive - Corporativo/Área de Trabalho/Estudos/CURSO BALTA.IO/Blazor/BlazingShop/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iVbpVYC+f4ybYVyN7R0u4kz8jNOcwsJFwp9skVCaxPs=",
+  "Hash": "aIS2KSmVV/WpU83vXRownoREw4WGpCuUqToA93bSuPk=",
   "Source": "BlazingShop",
   "BasePath": "_content/BlazingShop",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazingShop\\wwwroot",
       "Source": "BlazingShop",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazingShop.styles.css",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazingShop.styles.css",
       "SourceId": "BlazingShop",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "BlazingShop.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\matheus.s.vaz\\BlazingShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazingShop.styles.css"
+      "OriginalItemSpec": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazingShop.styles.css"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazingShop.bundle.scp.css",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazingShop.bundle.scp.css",
       "SourceId": "BlazingShop",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "BlazingShop.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\matheus.s.vaz\\BlazingShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazingShop.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazingShop.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazingShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazingShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazingShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazingShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazingShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazingShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazingShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazingShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazingShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazingShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazingShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\css\\site.css",
       "SourceId": "BlazingShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\favicon.png",
       "SourceId": "BlazingShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\matheus.s.vaz\\BlazingShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\matheus.s.vaz\\OneDrive - Corporativo\\Área de Trabalho\\Estudos\\CURSO BALTA.IO\\Blazor\\BlazingShop\\wwwroot\\",
       "BasePath": "_content/BlazingShop",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

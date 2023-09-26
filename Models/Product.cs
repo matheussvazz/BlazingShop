@@ -4,6 +4,12 @@ namespace BlazingShop.Models;
 
 public class Product
 {
+
+    public Product()
+    {
+
+    }
+
     [Key]
     [Required(ErrorMessage = "Id é obrigatório")]
     public int Id { get; set; }
